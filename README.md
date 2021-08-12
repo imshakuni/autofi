@@ -53,6 +53,11 @@ chmod +x autofi.sh autofi-crack.sh init-autofi.sh de-auth-autofi.sh //gives exec
 
 --------------------------------------------------------------------------------------------------------------
 ```
+## REMEMBER !! airmon-ng check kill will kill all the network management services..so after completion of work run command
+
+```
+service NetworkManager start
+```
 
 ## Youtube video : [Click here]() (not yet uploaded)
 
