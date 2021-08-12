@@ -31,7 +31,7 @@ This script is made for those who are lazy to type all the commands to crack wir
 ### Installation process
 
 ```bash
-git clone https://github.com/imshakuni/autofi
+git clone https://github.com/surya-cn/autofi
 ```
  
 ## Usage
